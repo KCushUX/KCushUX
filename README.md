@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @KCushUX
-- 👀 I’m interested in merging the UX/UI process with music and urban culture.
-- 🌱 I’m currently learning product design.
-- 💞️ I want to collaborate on applications that can merge music and design.
+- 👀 I’m interested in finding creative ways of merging the design process with my many passions.
+- 🌱 I’m currently on the journey of mastering product design.
+- 💞️ I want to collaborate on projects that embrace continuous learning, music, and design.
 - 📫 You can reach me by email on my Github-hosted site.
 
 <!---
